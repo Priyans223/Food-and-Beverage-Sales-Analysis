@@ -1,27 +1,31 @@
-<img width="598" alt="image" src="https://github.com/Priyans223/Food-and-Beverage-Sales-Analysis/assets/139046513/6dc69fdb-73fb-494d-9ede-05cc8af6d71f">
+# Food Sales Analysis with Power BI
 
-Food and Beverage Sales Analysis with Power BI
-Overview
-Explore the Food and Beverage Sales Analysis project, powered by Power BI. We've dissected sales data from the food and beverage industry to drive insightful decision-making and foster business growth.
+# Overview:
+Welcome to my Food Sales Analysis project! In this project, I used Power BI to dive into sales data of food and beverages. The aim was to find valuable and informative insights from the data and show them in colorful charts and graphs. This helps the company make better decisions.
 
-Problem
-Unveil the potential of sales data to optimize decision-making. Analyze revenue, orders, product categories, channels, and salesperson performance to unearth patterns and trends for strategic enhancements.
+# Why Sales Data?
+Sales data is like a treasure map for businesses. It shows what people like, how things are selling, and who's doing a great job. Let's dig into this data to help the company do even better.
 
-Features
-Data Preparation
-Meticulously aggregate and refine data within Power BI for accurate analysis.
+# The Approach
+**Preparing the Data:**  We meticulously collected and organized sales data from various sources, ensuring its accuracy and reliability.
 
-Key Performance Indicators (KPIs)
-Instantly assess metrics like revenue, orders, and average ticket price through KPIs.
+**Visualizing Insights:** Leveraging the capabilities of Power BI, we transformed raw data into compelling visualizations that convey insights effectively.
 
-Visual Insights
-Transform complex data into engaging visuals:
+**Variety of Visuals:** Our toolkit included doughnut charts, line charts, stacked column charts, and stacked bar charts, each offering a unique perspective on the data.
 
-Doughnut Charts: Display revenue distribution by sales channels and product categories.
-Line and Stacked Column Charts: Visualize quarterly and monthly revenue and order trends.
-Stacked Bar Charts: Illustrate revenue by salesperson and product group.
-Interactive Exploration
-Use slicers to dynamically filter and analyze data, enhancing insights.
+# Key Discoveries
+**Revenue Sources:** Our initial visualization showcased where revenue comes from. Retail dominates with 48.56%, followed by Distributor at 34.05%, and Online at 17.39%.
 
-Conclusion
-This project extracts valuable food and beverage sales insights. Vibrant visualizations highlight best-selling products, peak sales periods, and high-performing salespeople. Empower your decisions and future successes.
+**Food vs. Drink:** We explored revenue from different food categories. Food is the powerhouse, contributing 91.4%, while drinks make up the remaining 8.6%.
+
+**Temporal Patterns:** Analyzing time trends revealed Quarter 4's strength and October's significance as a high-revenue and high-order month.
+
+**Top Performers and Products:** We highlighted the top salespeople and discovered the most profitable products. Wheat flour took the lead, followed by oil, yeast, flour, and liquor.
+
+
+# Wrap-up: 
+
+This Power BI project gave super insights into food sales in which we learn *what's popular*, *when things sell the most*, and *who's rocking it*. This info provides a great guide for the company to make smarter choices and succeed even more in the future.
+
+
+
