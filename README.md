@@ -27,5 +27,8 @@ Sales data is like a treasure map for businesses. It shows what people like, how
 
 This Power BI project gave super insights into food sales in which we learn *what's popular*, *when things sell the most*, and *who's rocking it*. This info provides a great guide for the company to make smarter choices and succeed even more in the future.
 
+<img width="597" alt="image" src="https://github.com/Priyans223/Food-and-Beverage-Sales-Analysis/assets/139046513/07a10339-211d-4a5e-aba4-b1cc589b9623">
+
+
 
 
